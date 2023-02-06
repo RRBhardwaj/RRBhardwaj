@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I am a full-stack web developer with experience in HTML, CSS, JavaScript, React, Node.js, Express, and Redux. <br><br>My skills include utilizing libraries such as Chakra UI and Bootstrap to enhance the user experience. Additionally, I am proficient in database management using MongoDB. <br><br>Currently based in Bangalore, I am passionate about creating dynamic and engaging web applications that provide a seamless user experience. Whether it's a simple static website or a complex web-based application, I am committed to delivering high-quality results and exceeding expectations.<br><br> Let's work together to bring your web development vision to life.<br><br>All my projects are available at https://rrbhardwaj.github.io/<br><br>To reach me you can mail mailto:rishirajbhardwaj20@gmail.com
+Hello! I am a full-stack web developer with experience in HTML, CSS, JavaScript, React, Node.js, Express, and Redux. <br><br>My skills include utilizing libraries such as Chakra UI and Bootstrap to enhance the user experience. Additionally, I am proficient in database management using MongoDB. <br><br>Currently based in Bangalore, I am passionate about creating dynamic and engaging web applications that provide a seamless user experience. Whether it's a simple static website or a complex web-based application, I am committed to delivering high-quality results and exceeding expectations. With my strong technical skills and creative problem-solving abilities, I am confident in my ability to easily tackle any project.<br><br> Let's work together to bring your web development vision to life.<br><br>All my projects are available at https://rrbhardwaj.github.io/<br><br>To reach me you can mail mailto:rishirajbhardwaj20@gmail.com
 
 
 ## 🌐 Socials:
@@ -13,5 +13,4 @@ Hello! I am a full-stack web developer with experience in HTML, CSS, JavaScript,
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RRBhardwaj&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RRBhardwaj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+![](https://github-profile-trophy.vercel.app/?username=RRBhardwaj&theme=chalk&no-frame=true&no-bg=true&margin-w=4)
